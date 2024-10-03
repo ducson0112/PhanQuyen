@@ -1,0 +1,6 @@
+@PhanQuyenAPI_HostAddress = http://localhost:5132
+
+GET {{PhanQuyenAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
